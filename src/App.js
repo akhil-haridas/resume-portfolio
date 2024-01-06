@@ -64,13 +64,6 @@ function App() {
           <Projects />
           <Experience />
           <Contact />
-          <div
-            style={{
-              height: 130,
-              background:
-                "linear-gradient(180deg, var(--background), var(--background-dark))",
-            }}
-          ></div>
         </main>
       </div>
       <Modal />
