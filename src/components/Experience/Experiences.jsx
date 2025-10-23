@@ -94,6 +94,9 @@ const Experiences = () => {
               <span className="chip">React Query</span>
               <span className="chip">Docker</span>
               <span className="chip">Cypress</span>
+              <span className="chip">Supabase</span>
+              <span className="chip">FCM</span>
+              <span className="chip">LiveKit</span>
             </div>
           </div>
           <div className="overlay" />
