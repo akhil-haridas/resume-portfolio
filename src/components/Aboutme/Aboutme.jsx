@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 const Aboutme = () => {
   return (
@@ -66,10 +66,11 @@ const Aboutme = () => {
         >
           <div className="content">
             <p className="about_aboutText__6K4t_">
-              I have proven experience in building 2 big industrial standard
-              projects and those projects and my skillset have been tested and
-              verified by experienced developers as well. So easily
-              match my skill and expertise to 2 years of experienced person. 🔗
+              I have 2 years of professional experience developing large,
+              industrial-standard projects. Throughout this time, I have
+              designed and implemented robust features, optimized performance,
+              and delivered high-quality solutions, with my work validated and
+              reviewed by senior developers. 🔗
             </p>
           </div>
           <div className="overlay"></div>
@@ -259,6 +260,6 @@ const Aboutme = () => {
       </div>
     </div>
   );
-}
+};
 
-export default Aboutme
+export default Aboutme;
