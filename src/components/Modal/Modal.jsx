@@ -1,14 +1,10 @@
 import React from "react";
 
 const Modal = ({ project, onClose }) => {
-const modalClassName = project
-  ? "projectmodal_modal__X7Nyj open"
-  : "projectmodal_modal__X7Nyj";
-  
   if (!project) {
-    return null
+    return null;
   }
-  
+
   return (
     <div className="projectmodal_modal__X7Nyj">
       <button
@@ -36,7 +32,7 @@ const modalClassName = project
           className="projectmodal_modalImage__EWd63"
           id="modalImage"
           src={project.imageSrc}
-          alt={`An image of the ${project.name} project.`}
+          alt={project.name}
         />
         <div className="projectmodal_modalContent__loHbD" id="modalContent">
           <h4>{project.name}</h4>
@@ -48,7 +44,7 @@ const modalClassName = project
             id="suppliedContent"
           >
             {/* Display project description or other details here */}
-           
+
             {project.features.map((feature, index) => (
               <p key={index}>{feature}</p>
             ))}
@@ -61,7 +57,7 @@ const modalClassName = project
             <div className="projectmodal_links__Q7utU" id="modalLinks">
               <a
                 target="_blank"
-                rel="nofollow"
+                rel="noreferrer"
                 href={project.githubLink}
                 id="sourceCodeLink"
               >
@@ -80,7 +76,7 @@ const modalClassName = project
               </a>
               <a
                 target="_blank"
-                rel="nofollow"
+                rel="noreferrer"
                 href={project.liveProjectLink}
                 id="liveProjectLink"
               >

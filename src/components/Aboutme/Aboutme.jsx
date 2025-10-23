@@ -101,7 +101,7 @@ const Aboutme = () => {
                 <span>
                   <a
                     target="_blank"
-                    rel="nofollow"
+                    rel="noreferrer"
                     href="https://www.linkedin.com/in/akhil-haridas-a8447125b"
                   >
                     <svg
@@ -120,7 +120,7 @@ const Aboutme = () => {
                 <span>
                   <a
                     target="_blank"
-                    rel="nofollow"
+                    rel="noreferrer"
                     href="https://github.com/akhil-haridas"
                   >
                     <svg
@@ -139,7 +139,7 @@ const Aboutme = () => {
                 <span>
                   <a
                     target="_blank"
-                    rel="nofollow"
+                    rel="noreferrer"
                     href="https://twitter.com/4khiltweets"
                   >
                     <svg
