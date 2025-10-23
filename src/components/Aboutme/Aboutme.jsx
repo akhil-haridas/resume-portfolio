@@ -190,24 +190,30 @@ const Aboutme = () => {
               </h4>
               <div className="stats_statGrid__zB3xo">
                 <span className="chip">JavaScript</span>
-                <span className="chip">HTML5</span>
-                <span className="chip">CSS3</span>
                 <span className="chip">ReactJS</span>
                 <span className="chip">Redux Toolkit</span>
                 <span className="chip">NodeJS</span>
                 <span className="chip">ExpressJS</span>
                 <span className="chip">PostgreSQL</span>
                 <span className="chip">GitHub</span>
-                <span className="chip">EJS - HBS</span>
                 <span className="chip">MongoDB</span>
                 <span className="chip">AWS EC2</span>
                 <span className="chip">JSON Webtoken</span>
                 <span className="chip">MVC Arch.</span>
                 <span className="chip">RESTful API</span>
                 <span className="chip">Multer</span>
-                <span className="chip">JQuery</span>
-                <span className="chip">Ajax</span>
+                <span className="chip">React Query</span>
+                <span className="chip">NextJs</span>
+                <span className="chip">Firebase</span>
+                <span className="chip">Socket.IO</span>
                 <span className="chip">Axios</span>
+                <span className="chip">TypeScript</span>
+                <span className="chip">Redis</span>
+                <span className="chip">Prisma</span>
+                <span className="chip">Redis</span>
+                <span className="chip">Redis</span>
+                <span className="chip">Ant Design</span>
+                <span className="chip">Electron</span>
               </div>
             </div>
           </div>
@@ -241,17 +247,30 @@ const Aboutme = () => {
               <div className="stats_statGrid__zB3xo">
                 <span className="chip">Tailwind CSS</span>
                 <span className="chip">Bootstrap 5</span>
-                <span className="chip">Socket.IO</span>
+                <span className="chip">JQuery</span>
                 <span className="chip">Cloudinary</span>
                 <span className="chip">NGINX</span>
                 <span className="chip">Figma</span>
-                <span className="chip">Firebase</span>
+                <span className="chip">Ajax</span>
+                <span className="chip">HTML5</span>
+                <span className="chip">CSS3</span>
+                <span className="chip">EJS - HBS</span>
                 <span className="chip">Postman</span>
                 <span className="chip">Material UI</span>
                 <span className="chip">Nodemailer</span>
                 <span className="chip">OAuth 2.0</span>
                 <span className="chip">Stripe</span>
                 <span className="chip">RazorPay</span>
+                <span className="chip">SvelteJS</span>
+                <span className="chip">MUI</span>
+                <span className="chip">RazorPay</span>
+                <span className="chip">Supabase</span>
+                <span className="chip">Docker</span>
+                <span className="chip">Sentry</span>
+                <span className="chip">LiveKit</span>
+                <span className="chip">FCM</span>
+                <span className="chip">Workbox</span>
+                <span className="chip">ThreeJs</span>
               </div>
             </div>
           </div>
