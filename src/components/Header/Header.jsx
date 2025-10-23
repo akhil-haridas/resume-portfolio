@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 const Header = () => {
   return (
@@ -40,10 +40,10 @@ const Header = () => {
       >
         <div className="content">
           <p className="hero_aboutCopy__VTnoZ">
-            I am a self-taught Full Stack developer proficient in MongoDB,
-            Express.js, React.js and Node.js. I build dynamic web apps and
-            efficient RESTful APIs. I am committed to continuous learning and
-            delivering high-quality solutions.
+            I am a self-taught Full Stack Developer with 2 years of experience,
+            proficient in MongoDB, Express.js, React.js, and Node.js. I build
+            dynamic web applications and efficient RESTful APIs. I am committed
+            to continuous learning and delivering high-quality solutions.
           </p>
         </div>
         <div className="overlay"></div>
@@ -67,6 +67,6 @@ const Header = () => {
       </div>
     </div>
   );
-}
+};
 
-export default Header
+export default Header;
