@@ -66,6 +66,41 @@ const Aboutme = () => {
         >
           <div className="content">
             <p className="about_aboutText__6K4t_">
+              I am passionate about exploring new technologies and implementing
+              modern development practices to build efficient, scalable, and
+              maintainable applications. Over the years, I have honed my skills
+              in both front-end and back-end development, focusing on delivering
+              solutions that are not only functional but also intuitive and
+              user-friendly.
+            </p>
+          </div>
+          <div className="overlay"></div>
+        </div>
+        <div
+          style={{
+            position: "relative",
+            width: "fit-content",
+            overflow: "hidden",
+          }}
+        >
+          <div className="content">
+            <p className="about_aboutText__6K4t_">
+              I enjoy collaborating with teams, tackling complex problems, and
+              continuously learning to improve my craft, ensuring that every
+              project I work on adds tangible value and leaves a lasting impact.
+            </p>
+          </div>
+          <div className="overlay"></div>
+        </div>
+        <div
+          style={{
+            position: "relative",
+            width: "fit-content",
+            overflow: "hidden",
+          }}
+        >
+          <div className="content">
+            <p className="about_aboutText__6K4t_">
               I have 2 years of professional experience developing large,
               industrial-standard projects. Throughout this time, I have
               designed and implemented robust features, optimized performance,
