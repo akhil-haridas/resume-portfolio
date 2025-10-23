@@ -20,7 +20,7 @@ const Contact = () => {
           <div>
             <p className="contact_contactCopy__oCo8c">
               Shoot me an email if you want to connect! You can also find me on
-              <a href="https://www.linkedin.com/in/akhil-haridas-a8447125b">
+              <a href="https://www.linkedin.com/in/akhil-k-26a848296/">
                 Linkedin
               </a>
               or
@@ -34,7 +34,7 @@ const Contact = () => {
           style={{ position: "relative", width: "100%", overflow: "hidden" }}
         >
           <div>
-            <a href="mailto:4khilharidas@gmail.com">
+            <a href="mailto:4khil.contact@gmail.com">
               <div className="contact_contactEmail__Fr6hH">
                 <svg
                   stroke="currentColor"
@@ -47,7 +47,7 @@ const Contact = () => {
                 >
                   <path d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 0 1 194 256h648.8a7.2 7.2 0 0 1 4.4 12.9z"></path>
                 </svg>
-                <span>4khilharidas@gmail.com</span>
+                <span>4khil.contact@gmail.com</span>
               </div>
             </a>
           </div>
