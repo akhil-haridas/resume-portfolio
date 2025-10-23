@@ -21,7 +21,7 @@ const Heading = () => {
   }, []);
 
     const handleOpenResume = () => {
-      const resumePdfFileName = "AKHIL_K.pdf";
+      const resumePdfFileName = "AKHIL K - MERN Stack Developer.pdf";
 
       const resumePdfUrl = `${process.env.PUBLIC_URL}/${resumePdfFileName}`;
 
