@@ -13,7 +13,9 @@ const Experiences = () => {
             }}
           >
             <div className="content">
-              <span className="experience_title__hai7S">Brototype</span>
+              <span className="experience_title__hai7S">
+                Dignizant Technologies LLP
+              </span>
             </div>
             <div className="overlay" />
           </div>
@@ -25,7 +27,7 @@ const Experiences = () => {
             }}
           >
             <div className="content">
-              <span>DEC 2022 - AUG 2023</span>
+              <span>OCT 2023 - Present</span>
             </div>
             <div className="overlay" />
           </div>
@@ -40,7 +42,7 @@ const Experiences = () => {
           >
             <div className="content">
               <span className="experience_position__E06bW">
-                MERN Stack Developer Intern
+                MERN Stack Developer
               </span>
             </div>
             <div className="overlay" />
@@ -53,7 +55,7 @@ const Experiences = () => {
             }}
           >
             <div className="content">
-              <span>Kerala</span>
+              <span>Surat</span>
             </div>
             <div className="overlay" />
           </div>
@@ -67,8 +69,9 @@ const Experiences = () => {
         >
           <div className="content">
             <p className="experience_description__iz3mi">
-              Learned Full Stack Web Development using MERN Stack and developed
-              multiple projects including E-Commerce and Community Web app.
+              Over the past 2+ years, I have gained professional experience as a
+              MERN Stack Developer, contributing to large-scale industrial
+              projects and building dynamic web applications.
             </p>
           </div>
           <div className="overlay" />
