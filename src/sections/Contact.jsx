@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 const Contact = () => {
   return (
@@ -24,8 +24,8 @@ const Contact = () => {
                 Linkedin
               </a>
               or
-              <a href="https://twitter.com/4khiltweets">Twitter</a>if that's
-              more your speed.
+              <a href="https://twitter.com/4khiltweets">Twitter</a>
+              if that's more your speed.
             </p>
           </div>
           <div className="overlay"></div>
@@ -56,6 +56,6 @@ const Contact = () => {
       </div>
     </section>
   );
-}
+};
 
-export default Contact
+export default Contact;
