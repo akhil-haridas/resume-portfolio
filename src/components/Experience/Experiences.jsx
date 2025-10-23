@@ -85,15 +85,15 @@ const Experiences = () => {
         >
           <div className="content">
             <div className="experience_tech__jTuus">
-              <span className="chip">NodeJS</span>
-              <span className="chip">ExpressJS</span>
+              <span className="chip">NextJS</span>
+              <span className="chip">SvelteJS</span>
               <span className="chip">ReactJS</span>
-              <span className="chip">Redux-Toolkit</span>
-              <span className="chip">GitTool</span>
-              <span className="chip">Data Structures &amp; Algorithms</span>
-              <span className="chip">MongoDB</span>
-              <span className="chip">postgreSQL</span>
-              <span className="chip">Firebase</span>
+              <span className="chip">PostgreSQL</span>
+              <span className="chip">GraphQL</span>
+              <span className="chip">Redis</span>
+              <span className="chip">React Query</span>
+              <span className="chip">Docker</span>
+              <span className="chip">Cypress</span>
             </div>
           </div>
           <div className="overlay" />
