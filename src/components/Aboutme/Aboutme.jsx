@@ -138,7 +138,7 @@ const Aboutme = () => {
                   <a
                     target="_blank"
                     rel="noreferrer"
-                    href="https://www.linkedin.com/in/akhil-haridas-a8447125b"
+                    href="https://www.linkedin.com/in/akhil-k-26a848296/"
                   >
                     <svg
                       stroke="currentColor"
