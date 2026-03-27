@@ -43,6 +43,7 @@ const Dotgrid = () => {
   };
 
   // ComponentDidMount equivalent - Start the animation when the component mounts
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   useEffect(() => {
     startAnimationEvery30Seconds();
 
