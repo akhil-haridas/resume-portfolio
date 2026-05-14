@@ -5,8 +5,8 @@ import ecommerce from "../assets/Ecommerce.png";
 import disneyClone from "../assets/disneyClone.png";
 import Portfolio from "../assets/Portfolio.png";
 import netflixClone from "../assets/netflixClone.png";
+import todoApp from "../assets/todoApp.png";
 import community from "../assets/Guide-Community.png";
-
 
 const projects = [
   {
@@ -45,6 +45,25 @@ const projects = [
       "➔ Utilized MongoDB for the database, ensuring efficient data management",
       "➔ Enhanced visual aesthetics by utilizing Sharp and Jimp for image cropping.Generated sales reports in HTML to PDF format for effective data analysis.",
       "➔ Hosted the project on AWS EC2, ensuring reliable and scalable deployment.",
+    ],
+  },
+  {
+    name: "Interactive Todo App",
+    imageSrc: todoApp,
+    githubLink: "https://github.com/akhil-haridas",
+    liveProjectLink: "https://akhil-todo-list.vercel.app",
+    techStack:
+      "React.js - JavaScript - JSX - CSS3 - Responsive Design - Animation - Vercel",
+    description:
+      "An interactive Todo application built with React.js featuring a modern mobile-inspired UI, smooth animations, and responsive task management experience for everyday productivity.",
+    features: [
+      "➔ Developed a dynamic Todo application using React.js with component-based architecture.",
+      "➔ Designed an interactive mobile-style user interface with smooth animations and modern layouts.",
+      "➔ Implemented task creation, deletion, and status management with real-time UI updates.",
+      "➔ Built responsive screens optimized for both mobile and desktop experiences.",
+      "➔ Added engaging transitions and interactive effects for improved user experience.",
+      "➔ Structured reusable React components with clean state management practices.",
+      "➔ Deployed the application on Vercel for fast and reliable accessibility.",
     ],
   },
   {
