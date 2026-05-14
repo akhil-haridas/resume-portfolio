@@ -6,6 +6,7 @@ import disneyClone from "../assets/disneyClone.png";
 import Portfolio from "../assets/Portfolio.png";
 import netflixClone from "../assets/netflixClone.png";
 import todoApp from "../assets/todoApp.png";
+import weatherApp from "../assets/weatherApp.png";
 import community from "../assets/Guide-Community.png";
 
 const projects = [
@@ -45,6 +46,25 @@ const projects = [
       "➔ Utilized MongoDB for the database, ensuring efficient data management",
       "➔ Enhanced visual aesthetics by utilizing Sharp and Jimp for image cropping.Generated sales reports in HTML to PDF format for effective data analysis.",
       "➔ Hosted the project on AWS EC2, ensuring reliable and scalable deployment.",
+    ],
+  },
+  {
+    name: "Weather Forecast App",
+    imageSrc: weatherApp,
+    githubLink: "https://github.com/akhil-haridas",
+    liveProjectLink: "https://weather-app-react-lime-alpha.vercel.app",
+    techStack:
+      "React.js - JavaScript - CSS3 - Weather API - LocalStorage - Responsive Design - Vercel",
+    description:
+      "A modern weather forecasting application built with React.js that provides real-time weather updates through an interactive and responsive user interface powered by Weather API integration.",
+    features: [
+      "➔ Developed a responsive weather application using React.js with component-based architecture.",
+      "➔ Integrated Weather API to fetch real-time weather details and forecast information dynamically.",
+      "➔ Designed an interactive and visually engaging UI with modern responsive layouts.",
+      "➔ Implemented LocalStorage functionality to save recent searches and user preferences.",
+      "➔ Added dynamic weather condition rendering with smooth UI updates and animations.",
+      "➔ Optimized the application for seamless performance across desktop and mobile devices.",
+      "➔ Deployed the project on Vercel for fast and reliable accessibility.",
     ],
   },
   {
