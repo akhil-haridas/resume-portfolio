@@ -13,6 +13,7 @@ import companyDemo from "../assets/companyDemo.png";
 import ressoClone from "../assets/ressoClone.png";
 import customForm from "../assets/customForm.png";
 import rukkor from "../assets/rukkor.png";
+import geometra from "../assets/geometra.png";
 import community from "../assets/Guide-Community.png";
 
 const projects = [
@@ -34,6 +35,27 @@ const projects = [
       "➔ Focused on secure and user-centric application experience with organized team collaboration features.",
       "➔ Optimized application performance and responsive behavior for seamless cross-device usability.",
       "➔ Contributed to enhancing modern SaaS-style workflow management and communication experience.",
+    ],
+  },
+  {
+    name: "Geometra Construction Estimation Platform",
+    imageSrc: geometra,
+    githubLink: "",
+    liveProjectLink: "https://geometra.rukkor.io/login",
+    techStack:
+      "React.js - TypeScript - Node.js - Real-time Collaboration - Construction Tech - Cloud Platform - Responsive Design",
+
+    description:
+      "Geometra is a modern cloud-based construction quantity takeoff and estimation platform designed for construction professionals to measure, calculate, and manage project estimations directly from drawings and documents.",
+
+    features: [
+      "➔ Contributed to developing a scalable cloud-based construction estimation platform focused on quantity takeoffs and project calculations.",
+      "➔ Built modern responsive interfaces for handling project measurements, estimation workflows, and collaborative construction operations.",
+      "➔ Worked on interactive modules for drawing management, quantity calculations, and real-time project handling.",
+      "➔ Improved user experience with modern dashboard layouts, optimized workflows, and responsive application behavior.",
+      "➔ Supported construction-focused features including project organization, measurement handling, and data visualization tools.",
+      "➔ Contributed to scalable frontend architecture and seamless collaboration experience across multiple devices.",
+      "➔ Focused on performance optimization, maintainable code structure, and modern SaaS application usability.",
     ],
   },
   {
