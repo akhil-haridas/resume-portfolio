@@ -8,6 +8,7 @@ import netflixClone from "../assets/netflixClone.png";
 import todoApp from "../assets/todoApp.png";
 import weatherApp from "../assets/weatherApp.png";
 import userManagement from "../assets/userManagement.png";
+import employeeManagement from "../assets/employeeManagement.png";
 import community from "../assets/Guide-Community.png";
 
 const projects = [
@@ -47,6 +48,25 @@ const projects = [
       "➔ Utilized MongoDB for the database, ensuring efficient data management",
       "➔ Enhanced visual aesthetics by utilizing Sharp and Jimp for image cropping.Generated sales reports in HTML to PDF format for effective data analysis.",
       "➔ Hosted the project on AWS EC2, ensuring reliable and scalable deployment.",
+    ],
+  },
+  {
+    name: "Employee Management System",
+    imageSrc: employeeManagement,
+    githubLink: "https://github.com/akhil-haridas",
+    liveProjectLink: "https://employee-management-tawny.vercel.app",
+    techStack:
+      "React.js - Node.js - Express.js - MongoDB - JavaScript - REST API - CSS3 - Vercel",
+    description:
+      "A full-stack employee management application built with the MERN stack to manage employee records efficiently through complete CRUD operations and responsive user interfaces.",
+    features: [
+      "➔ Developed a complete employee management system using React.js, Node.js, Express.js, and MongoDB.",
+      "➔ Implemented CRUD functionalities for adding, editing, updating, viewing, and deleting employee records.",
+      "➔ Built scalable REST APIs with Express.js for smooth frontend-backend integration.",
+      "➔ Managed employee data securely using MongoDB database operations.",
+      "➔ Designed responsive and user-friendly interfaces with reusable React components.",
+      "➔ Implemented dynamic form validation and real-time data rendering for improved user experience.",
+      "➔ Deployed the application on Vercel for public accessibility and demonstration.",
     ],
   },
   {
