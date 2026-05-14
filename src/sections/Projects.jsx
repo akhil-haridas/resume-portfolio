@@ -1,8 +1,9 @@
 import React, { useState } from "react";
 import ProjectCard from "../components/ProjectCard/ProjectCard";
 import Modal from "../components/Modal/Modal";
-import ecommerce from '../assets/Ecommerce.png'
-import community from '../assets/Guide-Community.png'
+import ecommerce from "../assets/Ecommerce.png";
+import disneyClone from "../assets/disneyClone.png"
+import community from "../assets/Guide-Community.png";
 const projects = [
   {
     name: "BUILD DREAM - Community",
@@ -40,6 +41,25 @@ const projects = [
       "➔ Utilized MongoDB for the database, ensuring efficient data management",
       "➔ Enhanced visual aesthetics by utilizing Sharp and Jimp for image cropping.Generated sales reports in HTML to PDF format for effective data analysis.",
       "➔ Hosted the project on AWS EC2, ensuring reliable and scalable deployment.",
+    ],
+  },
+  {
+    name: "Disney+ UI Clone",
+    imageSrc: disneyClone,
+    githubLink: "https://github.com/akhil-haridas/disney-static-ui",
+    liveProjectLink: "https://akhil-haridas.github.io/disney-static-ui/",
+    techStack:
+      "HTML5 - CSS3 - Flexbox - CSS Grid - Responsive Design - GitHub Pages",
+    description:
+      "Disney+ UI Clone is a responsive frontend web application inspired by the official Disney+ streaming platform, focused on recreating a modern OTT interface with clean design and smooth user experience.",
+    features: [
+      "➔ Developed a fully responsive Disney+ inspired landing page using pure HTML and CSS.",
+      "➔ Recreated modern OTT platform UI sections including banners, navigation bar, movie cards, and hover effects.",
+      "➔ Implemented responsive layouts using Flexbox and CSS Grid for seamless viewing across devices.",
+      "➔ Designed clean and visually engaging user interfaces with attention to spacing, typography, and alignment.",
+      "➔ Added smooth transitions and interactive hover animations for better user experience.",
+      "➔ Optimized the project structure and styling for maintainability and scalability.",
+      "➔ Deployed the project using GitHub Pages for live accessibility.",
     ],
   },
 ];
