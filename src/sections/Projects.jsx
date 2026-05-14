@@ -9,6 +9,7 @@ import todoApp from "../assets/todoApp.png";
 import weatherApp from "../assets/weatherApp.png";
 import userManagement from "../assets/userManagement.png";
 import employeeManagement from "../assets/employeeManagement.png";
+import companyDemo from "../assets/companyDemo.png";
 import community from "../assets/Guide-Community.png";
 
 const projects = [
@@ -48,6 +49,25 @@ const projects = [
       "➔ Utilized MongoDB for the database, ensuring efficient data management",
       "➔ Enhanced visual aesthetics by utilizing Sharp and Jimp for image cropping.Generated sales reports in HTML to PDF format for effective data analysis.",
       "➔ Hosted the project on AWS EC2, ensuring reliable and scalable deployment.",
+    ],
+  },
+  {
+    name: "Company Demo Website",
+    imageSrc: companyDemo,
+    githubLink: "https://github.com/akhil-haridas",
+    liveProjectLink: "https://company-demo-xi.vercel.app",
+    techStack:
+      "React.js - Tailwind CSS - Swiper.js - Splitting.js - JavaScript - Animation Libraries - Responsive Design - Vercel",
+    description:
+      "A modern company demo website built with React.js featuring interactive animations, smooth transitions, responsive layouts, and engaging user experiences using multiple animation libraries.",
+    features: [
+      "➔ Developed a responsive company showcase website using React.js with reusable component architecture.",
+      "➔ Integrated advanced animation libraries including Splitting.js and Swiper.js for modern interactive UI effects.",
+      "➔ Built smooth sliders, animated text sections, and engaging transition effects for enhanced user experience.",
+      "➔ Designed visually appealing layouts using Tailwind CSS with responsive mobile-first design principles.",
+      "➔ Implemented dynamic content sections and modern landing page interactions.",
+      "➔ Optimized frontend performance and animation rendering for seamless browsing experience.",
+      "➔ Deployed the project on Vercel for fast and reliable public accessibility.",
     ],
   },
   {
