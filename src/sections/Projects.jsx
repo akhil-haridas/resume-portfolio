@@ -2,8 +2,12 @@ import React, { useState } from "react";
 import ProjectCard from "../components/ProjectCard/ProjectCard";
 import Modal from "../components/Modal/Modal";
 import ecommerce from "../assets/Ecommerce.png";
-import disneyClone from "../assets/disneyClone.png"
+import disneyClone from "../assets/disneyClone.png";
+import Portfolio from "../assets/Portfolio.png";
+import netflixClone from "../assets/netflixClone.png";
 import community from "../assets/Guide-Community.png";
+
+
 const projects = [
   {
     name: "BUILD DREAM - Community",
@@ -41,6 +45,44 @@ const projects = [
       "➔ Utilized MongoDB for the database, ensuring efficient data management",
       "➔ Enhanced visual aesthetics by utilizing Sharp and Jimp for image cropping.Generated sales reports in HTML to PDF format for effective data analysis.",
       "➔ Hosted the project on AWS EC2, ensuring reliable and scalable deployment.",
+    ],
+  },
+  {
+    name: "Netflix UI Clone",
+    imageSrc: netflixClone,
+    githubLink: "https://github.com/akhil-haridas/netflix-static-ui",
+    liveProjectLink: "https://akhil-haridas.github.io/netflix-static-ui/",
+    techStack:
+      "HTML5 - CSS3 - Bootstrap 5 - Responsive Design - Flexbox - GitHub Pages",
+    description:
+      "Netflix UI Clone is a responsive frontend web application inspired by the official Netflix platform, focused on recreating a cinematic streaming interface with modern layouts and responsive design.",
+    features: [
+      "➔ Developed a fully responsive Netflix-inspired landing page using HTML5, CSS3, and Bootstrap 5.",
+      "➔ Recreated modern OTT platform sections including hero banners, navigation bars, FAQ sections, and movie showcases.",
+      "➔ Implemented responsive layouts and grid systems using Bootstrap 5 for seamless device compatibility.",
+      "➔ Designed visually engaging UI components with modern typography, spacing, and layout structure.",
+      "➔ Added interactive hover effects and smooth styling transitions for improved user experience.",
+      "➔ Structured the project with clean and maintainable frontend architecture.",
+      "➔ Deployed the project using GitHub Pages for public accessibility.",
+    ],
+  },
+  {
+    name: "Personal Portfolio Website",
+    imageSrc: Portfolio,
+    githubLink: "https://github.com/akhil-haridas/personal-website",
+    liveProjectLink: "https://akhil-haridas.github.io/personal-website/",
+    techStack:
+      "HTML5 - CSS3 - SCSS - JavaScript - Bootstrap - jQuery - Google Apps Script - Responsive Design",
+    description:
+      "A modern responsive personal portfolio website designed to showcase projects, technical skills, and professional experience with an integrated contact feature powered by Google Apps Script API.",
+    features: [
+      "➔ Designed and developed a fully responsive personal portfolio website with modern UI/UX.",
+      "➔ Built interactive and reusable frontend sections using JavaScript, Bootstrap, and jQuery.",
+      "➔ Styled the entire application using SCSS and CSS for clean maintainable design architecture.",
+      "➔ Integrated a working contact form using Google Apps Script API for real-time email submissions.",
+      "➔ Implemented responsive layouts and mobile-first design for seamless multi-device compatibility.",
+      "➔ Added smooth scrolling, animations, hover effects, and interactive UI components.",
+      "➔ Optimized website performance and deployed the project using GitHub Pages.",
     ],
   },
   {
