@@ -10,6 +10,7 @@ import weatherApp from "../assets/weatherApp.png";
 import userManagement from "../assets/userManagement.png";
 import employeeManagement from "../assets/employeeManagement.png";
 import companyDemo from "../assets/companyDemo.png";
+import ressoClone from "../assets/ressoClone.png";
 import community from "../assets/Guide-Community.png";
 
 const projects = [
@@ -68,6 +69,25 @@ const projects = [
       "➔ Implemented dynamic content sections and modern landing page interactions.",
       "➔ Optimized frontend performance and animation rendering for seamless browsing experience.",
       "➔ Deployed the project on Vercel for fast and reliable public accessibility.",
+    ],
+  },
+  {
+    name: "Resso Music UI Clone",
+    imageSrc: ressoClone,
+    githubLink: "https://github.com/akhil-haridas/resso-static-ui",
+    liveProjectLink: "https://akhil-haridas.github.io/resso-static-ui/",
+    techStack:
+      "HTML5 - CSS3 - JavaScript - Audio Player - Video Integration - Responsive Design - GitHub Pages",
+    description:
+      "A modern Resso-inspired music streaming UI clone built using HTML, CSS, and JavaScript featuring interactive media sections, responsive layouts, and immersive music platform aesthetics.",
+    features: [
+      "➔ Developed a fully responsive Resso-inspired music streaming interface using HTML5, CSS3, and JavaScript.",
+      "➔ Designed interactive music player layouts with modern UI styling and immersive visual aesthetics.",
+      "➔ Integrated audio and video elements to simulate real-world music streaming platform experiences.",
+      "➔ Implemented responsive layouts and media sections optimized for multiple screen sizes.",
+      "➔ Added smooth hover effects, transitions, and engaging frontend interactions for enhanced user experience.",
+      "➔ Structured clean and maintainable frontend architecture for scalability and readability.",
+      "➔ Deployed the project using GitHub Pages for public accessibility.",
     ],
   },
   {
