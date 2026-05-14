@@ -7,6 +7,7 @@ import Portfolio from "../assets/Portfolio.png";
 import netflixClone from "../assets/netflixClone.png";
 import todoApp from "../assets/todoApp.png";
 import weatherApp from "../assets/weatherApp.png";
+import userManagement from "../assets/userManagement.png";
 import community from "../assets/Guide-Community.png";
 
 const projects = [
@@ -65,6 +66,25 @@ const projects = [
       "➔ Added dynamic weather condition rendering with smooth UI updates and animations.",
       "➔ Optimized the application for seamless performance across desktop and mobile devices.",
       "➔ Deployed the project on Vercel for fast and reliable accessibility.",
+    ],
+  },
+  {
+    name: "User Management App",
+    imageSrc: userManagement,
+    githubLink: "https://github.com/akhil-haridas",
+    liveProjectLink: "https://mern-crud-demo.vercel.app",
+    techStack:
+      "MongoDB - Express.js - React.js - Node.js - JavaScript - REST API - CSS3 - Vercel",
+    description:
+      "A full-stack MERN user management application built to perform complete CRUD operations with a clean responsive interface and efficient backend API integration.",
+    features: [
+      "➔ Developed a full-stack CRUD application using the MERN stack architecture.",
+      "➔ Implemented user creation, editing, updating, viewing, and deletion functionalities.",
+      "➔ Built RESTful APIs using Express.js and Node.js for seamless frontend-backend communication.",
+      "➔ Managed application data efficiently using MongoDB database integration.",
+      "➔ Designed a clean and responsive user interface with React.js and modern component structure.",
+      "➔ Implemented dynamic form handling and real-time UI updates for better user experience.",
+      "➔ Deployed the application on Vercel for live accessibility and testing.",
     ],
   },
   {
