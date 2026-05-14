@@ -11,6 +11,7 @@ import userManagement from "../assets/userManagement.png";
 import employeeManagement from "../assets/employeeManagement.png";
 import companyDemo from "../assets/companyDemo.png";
 import ressoClone from "../assets/ressoClone.png";
+import customForm from "../assets/customForm.png";
 import community from "../assets/Guide-Community.png";
 
 const projects = [
@@ -88,6 +89,25 @@ const projects = [
       "➔ Added smooth hover effects, transitions, and engaging frontend interactions for enhanced user experience.",
       "➔ Structured clean and maintainable frontend architecture for scalability and readability.",
       "➔ Deployed the project using GitHub Pages for public accessibility.",
+    ],
+  },
+  {
+    name: "Custom Form Builder App",
+    imageSrc: customForm,
+    githubLink: "https://github.com/akhil-haridas",
+    liveProjectLink: "https://custom-form-app.vercel.app",
+    techStack:
+      "React.js - Node.js - Express.js - MongoDB Atlas - REST API - Form Validation - SweetAlert2 - JavaScript - Vercel",
+    description:
+      "A dynamic custom form builder application inspired by Google Forms, allowing users to create, manage, and validate customizable forms through a modern full-stack MERN architecture.",
+    features: [
+      "➔ Developed a full-stack custom form creation platform using React.js, Node.js, Express.js, and MongoDB Atlas.",
+      "➔ Built dynamic form generation functionality with customizable input fields and validation support.",
+      "➔ Implemented RESTful APIs for form management, submission handling, and backend data processing.",
+      "➔ Added advanced form validation and interactive alert handling using SweetAlert2.",
+      "➔ Designed responsive and user-friendly interfaces with reusable React component architecture.",
+      "➔ Managed form data efficiently using MongoDB Atlas cloud database integration.",
+      "➔ Deployed the application on Vercel for seamless public accessibility and testing.",
     ],
   },
   {
