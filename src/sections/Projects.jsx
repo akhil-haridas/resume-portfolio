@@ -12,9 +12,30 @@ import employeeManagement from "../assets/employeeManagement.png";
 import companyDemo from "../assets/companyDemo.png";
 import ressoClone from "../assets/ressoClone.png";
 import customForm from "../assets/customForm.png";
+import rukkor from "../assets/rukkor.png";
 import community from "../assets/Guide-Community.png";
 
 const projects = [
+  {
+    name: "Rukkor Collaboration Platform",
+    imageSrc: rukkor,
+    githubLink: "",
+    liveProjectLink: "https://app.rukkor.com/login",
+    techStack:
+      "React.js - TypeScript - Node.js - Real-time Communication - Project Management - Collaboration Tools - Responsive Design",
+    description:
+      "Rukkor is a modern collaboration and project management platform focused on team communication, workspace organization, and real-time productivity management with secure cloud-based architecture.",
+
+    features: [
+      "➔ Developed interactive collaboration modules focused on communication, workspace management, and project organization.",
+      "➔ Implemented modern responsive user interfaces with clean dashboard layouts and real-time interaction flows.",
+      "➔ Built scalable frontend architecture for handling project discussions, channels, and collaborative workflows.",
+      "➔ Integrated modern project management concepts including boards, task tracking, and workspace-based communication.",
+      "➔ Focused on secure and user-centric application experience with organized team collaboration features.",
+      "➔ Optimized application performance and responsive behavior for seamless cross-device usability.",
+      "➔ Contributed to enhancing modern SaaS-style workflow management and communication experience.",
+    ],
+  },
   {
     name: "BUILD DREAM - Community",
     imageSrc: community,
